@@ -1,0 +1,128 @@
+﻿@model ruyadaherseycom.Models.RuyaTabiri
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    if (!string.IsNullOrEmpty(ViewBag.cBaslik))
+    {
+        ViewBag.cTitle = ViewBag.cBaslik;
+    }
+    else if (!String.IsNullOrEmpty(Model.cBaslik))
+    {
+        ViewBag.cTitle = Model.cBaslik;
+    }
+
+    ViewBag.cDescription = Model.cIcerik.Length > 160 ? Model.cIcerik.Substring(0, 160) : Model.cIcerik;
+    ViewBag.cKeywords = "Rüyada " + Model.cBaslik + " Görmek, Rüyada " + Model.cBaslik + " Ne Anlamına Geliyor ?, Rüyada " + Model.cBaslik + "Kötüyemi Yorumlanır ? , Rüyada " + Model.cBaslik + " Psikolojik Yorumu";
+}
+<html>
+<body>
+    @if (Model != null)
+    {
+        <section class="yorum">
+            <div class="container">
+                <div class="row px-3">
+                    <div class="card mb-5 p-5">
+                        <div class="opacity"></div>
+                        <div class="image" style="background-image:url(/Images/star.png)">
+                            @if (!string.IsNullOrEmpty(ViewBag.cBaslik))
+                            {
+                                <h1 class="text-white font-weight-bold  text-capitalize">@ViewBag.cBaslik</h1>
+                            }
+                            else if (!String.IsNullOrEmpty(Model.cBaslik))
+                            {
+                                <h1 class="text-white font-weight-bold  text-capitalize">@Model.cBaslik</h1>
+                            }
+
+                            @if (!String.IsNullOrEmpty(Model.cIcerik))
+                            {
+                                <p class="text-white">
+                                    @Html.Raw(Model.cIcerik.Replace("Bakınız;", "İnceleyin;"))
+                                </p>
+                            }
+                            <a href="/ruya/yorum/@Model.cSeo/1/ruyada-@Model.cSeo-gormek" title="Rüyada @Model.cBaslik Görmek" class="text-white text-decoration-none">
+                                <span class="badge badge-pill badge-light text-capitalize mb-2">Rüyada @Model.cBaslik Görmek</span>
+                            </a>
+                            <a href="/ruya/yorum/@Model.cSeo/2/ruyada-@Model.cSeo-gormek-ne-anlamına-geliyor" title="Rüyada @Model.cBaslik Görmek Ne Anlamına Geliyor ?" class="text-white text-decoration-none">
+                                <span class="badge badge-pill badge-light text-capitalize mb-2">Rüyada @Model.cBaslik Ne Anlamına Geliyor ?</span>
+                            </a>
+                            <a href="/ruya/yorum/@Model.cSeo/3/ruyada-@Model.cSeo-gormek-kotuyemi-yorumlanır" title="Rüyada @Model.cBaslik Görmek Kötüyemi Yorumlanır ?" class="text-white text-decoration-none">
+                                <span class="badge badge-pill badge-light text-capitalize mb-2">Rüyada @Model.cBaslik Kötüyemi Yorumlanır ?</span>
+                            </a>
+                            <a href="/ruya/yorum/@Model.cSeo/4/ruyada-@Model.cSeo-gormek-psikolojik-yorumu" title="Rüyada @Model.cBaslik Görmek Psikolojik Yorumu" class="text-white text-decoration-none">
+                                <span class="badge badge-pill badge-light text-capitalize mb-2">Rüyada @Model.cBaslik Psikolojik Yorumu</span>
+                            </a>
+                            <a href="/ruya/yorum/@Model.cSeo/5/ruyada-@Model.cSeo-gormek-islami-yorumu" title="Rüyada @Model.cBaslik Görmek İslami Yorumu" class="text-white text-decoration-none">
+                                <span class="badge badge-pill badge-light text-capitalize mb-2">Rüyada @Model.cBaslik İslami Yorumu</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <ul class="pagination">
+                    <li>
+                        @if (!String.IsNullOrEmpty(Model.cSeoOnceki) && !String.IsNullOrEmpty(Model.cBaslikOnceki))
+                        {
+                            <a href="/ruya/yorum/@Model.cSeoOnceki" title="/ruya/yorum/@Model.cBaslikOnceki" class="px-2">
+                                < Önceki Rüya Tabiri
+                            </a>
+                        }
+                    </li>
+                    <li>
+                        @if (!String.IsNullOrEmpty(Model.cSeoSonraki) && !String.IsNullOrEmpty(Model.cBaslikSonraki))
+                        {
+                            <a href="/ruya/yorum/@Model.cSeoSonraki" title="/ruya/yorum/@Model.cSeoSonraki" class="px-2">
+                                Sonraki Rüya Tabiri >
+                            </a>
+                        }
+                    </li>
+                </ul>
+            </div>
+        </section>
+        <section class="list">
+            <div class="container">
+
+                <h3 class="text-center font-weight-bold bg-white py-2">@Model.cBaslik ile benzer rüya tabirleri</h3>
+
+                @if (Model.ruyaTabiris != null && Model.ruyaTabiris.Count > 0)
+                {
+                    for (int i = 0; i < Model.ruyaTabiris.Count; i++)
+                    {
+                        <div class="card mt-5 p-5">
+                            <div class="image" style="background-image:url(/Images/star.png)">
+                                @if (!String.IsNullOrEmpty(Model.ruyaTabiris[i].cSeo))
+                                {
+                                    <a href="/ruya/yorum/@Model.ruyaTabiris[i].cSeo" title="@Model.ruyaTabiris[i].cBaslik" class="text-decoration-none">
+                                        <h1 class="font-weight-bold text-white text-capitalize p-0">@Model.ruyaTabiris[i].cBaslik</h1>
+                                        @if (!String.IsNullOrEmpty(Model.ruyaTabiris[i].cIcerik))
+                                        {
+                                            <p class="overflow-hidden text-white">
+                                                @Model.ruyaTabiris[i].cIcerik.Replace("<br>", "").Replace("<br/>", "").Replace("Bakınız;", "İnceleyin;")
+                                            </p>
+                                        }
+                                    </a>
+                                }
+                                <a href="/ruya/yorum/@Model.ruyaTabiris[i].cSeo/1/ruyada-@Model.ruyaTabiris[i].cSeo-gormek" title="Rüyada @Model.ruyaTabiris[i].cBaslik Görmek" class="text-white text-decoration-none">
+                                    <span class="badge badge-pill badge-light text-capitalize mb-2">Rüyada @Model.ruyaTabiris[i].cBaslik Görmek</span>
+                                </a>
+                                <a href="/ruya/yorum/@Model.ruyaTabiris[i].cSeo/2/ruyada-@Model.ruyaTabiris[i].cSeo-gormek-ne-anlamına-geliyor" title="Rüyada @Model.ruyaTabiris[i].cBaslik Ne Anlamına Geliyor ?" class="text-white text-decoration-none">
+                                    <span class="badge badge-pill badge-light text-capitalize mb-2">Rüyada @Model.ruyaTabiris[i].cBaslik Ne Anlamına Geliyor ?</span>
+                                </a>
+                                <a href="/ruya/yorum/@Model.ruyaTabiris[i].cSeo/3/ruyada-@Model.ruyaTabiris[i].cSeo-gormek-kotuyemi-yorumlanır" title="Rüyada @Model.ruyaTabiris[i].cBaslik Kötüyemi Yorumlanır ?" class="text-white text-decoration-none">
+                                    <span class="badge badge-pill badge-light text-capitalize mb-2">Rüyada @Model.ruyaTabiris[i].cBaslik Kötüyemi Yorumlanır ?</span>
+                                </a>
+                                <a href="/ruya/yorum/@Model.ruyaTabiris[i].cSeo/4/ruyada-@Model.ruyaTabiris[i].cSeo-gormek-psikolojik-yorumu" title="Rüyada @Model.ruyaTabiris[i].cBaslik Psikolojik Yorumu" class="text-white text-decoration-none">
+                                    <span class="badge badge-pill badge-light text-capitalize mb-2">Rüyada @Model.ruyaTabiris[i].cBaslik Psikolojik Yorumu</span>
+                                </a>
+                                <a href="/ruya/yorum/@Model.ruyaTabiris[i].cSeo/5/ruyada-@Model.ruyaTabiris[i].cSeo-gormek-islami-yorumu" title="Rüyada @Model.ruyaTabiris[i].cBaslik İslami Yorumu" class="text-white text-decoration-none">
+                                    <span class="badge badge-pill badge-light text-capitalize mb-2">Rüyada @Model.ruyaTabiris[i].cBaslik İslami Yorumu</span>
+                                </a>
+                            </div>
+                        </div>
+                    }
+                }
+
+            </div>
+        </section>
+    }
+</body>
+</html>

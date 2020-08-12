@@ -1,0 +1,74 @@
+﻿@model ruyadaherseycom.Models.RuyaTabiri
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    if (!string.IsNullOrEmpty(ViewBag.cBaslik))
+    {
+        ViewBag.cTitle = ViewBag.cBaslik;
+    }
+    else if (!String.IsNullOrEmpty(Model.cBaslik))
+    {
+        ViewBag.cTitle = Model.cBaslik;
+    }
+
+    ViewBag.cDescription = Model.cIcerik.Length > 160 ? Model.cIcerik.Substring(0, 160) : Model.cIcerik;
+    ViewBag.cKeywords = "Rüyada " + Model.cBaslik + " Görmek, Rüyada " + Model.cBaslik + " Ne Anlamına Geliyor ?, Rüyada " + Model.cBaslik + "Kötüyemi Yorumlanır ? , Rüyada " + Model.cBaslik + " Psikolojik Yorumu";
+}
+<html>
+<body>
+    <section class="yorum">
+        <div class="container px-5">
+            <div class="row px-3">
+                <div class="card mb-5 p-5">
+                    <div class="opacity"></div>
+                    <div class="image" style="background-image:url(/Images/star.png)">
+                        @if (!string.IsNullOrEmpty(ViewBag.cBaslik))
+                        {
+                            <h1 class="text-white font-weight-bold  text-capitalize">@ViewBag.cBaslik</h1>
+                        }
+                        else if (!String.IsNullOrEmpty(Model.cBaslik))
+                        {
+                            <h1 class="text-white font-weight-bold  text-capitalize">@Model.cBaslik</h1>
+                        }
+
+                        @if (!String.IsNullOrEmpty(Model.cIcerik))
+                        {
+                            <p class="text-white">
+                                @Html.Raw(Model.cIcerik.Replace("Bakınız;", "İnceleyin;"))
+                            </p>
+                        }
+                        <a href="/ruya/yorum/@Model.cSeo/1/ruyada-@Model.cSeo-gormek" title="Rüyada @Model.cBaslik Görmek" class="text-white text-decoration-none">
+                            <span class="badge badge-pill badge-light text-capitalize mb-2">Rüyada @Model.cBaslik Görmek</span>
+                        </a>
+                        <a href="/ruya/yorum/@Model.cSeo/2/ruyada-@Model.cSeo-gormek-ne-anlamına-geliyor" title="Rüyada @Model.cBaslik Görmek Ne Anlamına Geliyor ?" class="text-white text-decoration-none">
+                            <span class="badge badge-pill badge-light text-capitalize mb-2">Rüyada @Model.cBaslik Ne Anlamına Geliyor ?</span>
+                        </a>
+                        <a href="/ruya/yorum/@Model.cSeo/3/ruyada-@Model.cSeo-gormek-kotuyemi-yorumlanır" title="Rüyada @Model.cBaslik Görmek Kötüyemi Yorumlanır ?" class="text-white text-decoration-none">
+                            <span class="badge badge-pill badge-light text-capitalize mb-2">Rüyada @Model.cBaslik Kötüyemi Yorumlanır ?</span>
+                        </a>
+                        <a href="/ruya/yorum/@Model.cSeo/4/ruyada-@Model.cSeo-gormek-psikolojik-yorumu" title="Rüyada @Model.cBaslik Görmek Psikolojik Yorumu" class="text-white text-decoration-none">
+                            <span class="badge badge-pill badge-light text-capitalize mb-2">Rüyada @Model.cBaslik Psikolojik Yorumu</span>
+                        </a>
+                        <a href="/ruya/yorum/@Model.cSeo/5/ruyada-@Model.cSeo-gormek-islami-yorumu" title="Rüyada @Model.cBaslik Görmek İslami Yorumu" class="text-white text-decoration-none">
+                            <span class="badge badge-pill badge-light text-capitalize mb-2">Rüyada @Model.cBaslik İslami Yorumu</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <ul class="pagination">
+                <li>
+                    <a href="#" title="r" class="px-2">
+                        < Önceki Rüya Tabiri
+                    </a>    
+                </li>
+                <li>
+                    <a href="#" title="r" class="px-2">
+                       Sonraki Rüya Tabiri >
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </section>
+</body>
+</html>

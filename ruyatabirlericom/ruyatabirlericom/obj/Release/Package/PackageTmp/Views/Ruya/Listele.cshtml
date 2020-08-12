@@ -1,0 +1,70 @@
+﻿@using X.PagedList;
+@using X.PagedList.Mvc;
+@model IPagedList<ruyadaherseycom.Models.RuyaTabiri>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var parametreler = new RouteValueDictionary();
+    parametreler.Add("arama", ViewBag.cArama);
+    parametreler.Add("harf", ViewBag.cHarf);
+    ViewBag.cTitle = "Güncel Rüya Tabirleri";
+    if (!string.IsNullOrEmpty(ViewBag.cHarf))
+    {
+        ViewBag.cTitle = (ViewBag.cHarf as string).ToUpper() + " Harfi İle Başlayan Rüya Tabirleri";
+    }
+    if (!string.IsNullOrEmpty(ViewBag.cArama))
+    {
+        ViewBag.cTitle = ViewBag.cArama + " Araması Sonucu";
+    }
+    ViewBag.cDescription = "Rüya yorumlama'da ve rüya tabirini en anlamlı ve doğru şekilde aktaran tek adres.";
+    ViewBag.cKeywords = "rüya görmek, rüyada yüksekten düşmek, rüyada hayvan görmek, rüyanın psikolojik yorumu, rüya tabiri,rüya tabiri sözlüğü,büyük rüya tabiri sözlüğü, rüyada ölen birini görmek,rüyada ağlamak, rüyada deniz görmek, rüyada evlenmek,Rüyada görülenlerin anlamları,a'dan z'ye rüya tabirleri,rüya anlamı sor,kötü rüyalar görmek,kabus görmek, rüyada para görmek, rüyada kavga etmek, rüyada evlenmek, rüyada altın görmek,rüyada yılan görmek,rüyada ağaç görmek,rüyada ölmek, rüyada hamile olmak, rüyada zengin olmak, rüyada nişanlanmak,rüyada saç kesmek,rüyada kan görmek,rüyada su görmek,rüyada bebek görmek";
+}
+<html>
+<body>
+    <section class="list">
+        <div class="container px-5">
+            @if (Model != null && Model.Count > 0)
+            {
+                for (int i = 0; i < Model.Count; i++)
+                {
+                    <div class="card mb-5 p-5">
+                        <div class="image" style="background-image:url(/Images/star.png)">
+                            @if (!String.IsNullOrEmpty(Model[i].cSeo))
+                            {
+                                <a href="/ruya/yorum/@Model[i].cSeo" title="@Model[i].cBaslik" class="text-decoration-none">
+                                    <h1 class="font-weight-bold text-white text-capitalize p-0">@Model[i].cBaslik</h1>
+                                    @if (!String.IsNullOrEmpty(Model[i].cIcerik))
+                                    {
+                                        <p class="overflow-hidden text-white">
+                                            @Model[i].cIcerik.Replace("<br>", "").Replace("<br/>", "").Replace("Bakınız;", "İnceleyin;")
+                                        </p>
+                                    }
+                                </a>
+                            }
+                            <a href="/ruya/yorum/@Model[i].cSeo/1/ruyada-@Model[i].cSeo-gormek" title="Rüyada @Model[i].cBaslik Görmek" class="text-white text-decoration-none">
+                                <span class="badge badge-pill badge-light text-capitalize mb-2">Rüyada @Model[i].cBaslik Görmek</span>
+                            </a>
+                            <a href="/ruya/yorum/@Model[i].cSeo/2/ruyada-@Model[i].cSeo-gormek-ne-anlamına-geliyor" title="Rüyada @Model[i].cBaslik Ne Anlamına Geliyor ?" class="text-white text-decoration-none">
+                                <span class="badge badge-pill badge-light text-capitalize mb-2">Rüyada @Model[i].cBaslik Ne Anlamına Geliyor ?</span>
+                            </a>
+                            <a href="/ruya/yorum/@Model[i].cSeo/3/ruyada-@Model[i].cSeo-gormek-kotuyemi-yorumlanır" title="Rüyada @Model[i].cBaslik Kötüyemi Yorumlanır ?" class="text-white text-decoration-none">
+                                <span class="badge badge-pill badge-light text-capitalize mb-2">Rüyada @Model[i].cBaslik Kötüyemi Yorumlanır ?</span>
+                            </a>
+                            <a href="/ruya/yorum/@Model[i].cSeo/4/ruyada-@Model[i].cSeo-gormek-psikolojik-yorumu" title="Rüyada @Model[i].cBaslik Psikolojik Yorumu" class="text-white text-decoration-none">
+                                <span class="badge badge-pill badge-light text-capitalize mb-2">Rüyada @Model[i].cBaslik Psikolojik Yorumu</span>
+                            </a>
+                            <a href="/ruya/yorum/@Model[i].cSeo/5/ruyada-@Model[i].cSeo-gormek-islami-yorumu" title="Rüyada @Model[i].cBaslik İslami Yorumu" class="text-white text-decoration-none">
+                                <span class="badge badge-pill badge-light text-capitalize mb-2">Rüyada @Model[i].cBaslik İslami Yorumu</span>
+                            </a>
+                        </div>
+                    </div>
+                }
+                @Html.PagedListPager((IPagedList)Model, sayfa => Url.Action("listele", "ruya", ruyadaherseycom.Class.Parametre.Send(sayfa,parametreler)), PagedListRenderOptions.PageNumbersOnly) 
+            }
+            else
+            {
+                <div class="alert alert-danger text-center">Aradığınız kriterlere uygun rüya tabiri bulunamadı!</div>
+            }
+        </div>
+    </section>
+</body>
+</html>

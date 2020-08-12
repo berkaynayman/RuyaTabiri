@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="hesaplamamotoru" Class="DataClassesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=185.85.238.10;Initial Catalog=hesaplamamotoru;Persist Security Info=True;User ID=sa" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="hesaplamamotoruConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.RuyaTabiri" Member="RuyaTabiris">
+    <Type Name="RuyaTabiri">
+      <Column Name="iKodRuyaTabiri" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="cHarf" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="cBaslik" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="cSeo" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="cIcerik" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="iAktifMi" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="dTarih" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="iSonGuncelleyenKullanici" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

@@ -1,0 +1,831 @@
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\ruyadaherseycom.dll.config
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\ruyadaherseycom.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\ruyadaherseycom.pdb
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\csc.exe
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\csc.exe.config
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\csc.rsp
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\csi.exe
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\csi.exe.config
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\csi.rsp
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.AppContext.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Collections.Immutable.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Console.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Globalization.Calendars.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.IO.Compression.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.IO.FileSystem.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Net.Http.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Net.Sockets.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Reflection.Metadata.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.ValueTuple.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Xml.XPath.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\vbc.exe
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\vbc.exe.config
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\vbc.rsp
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\VBCSCompiler.exe
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\VBCSCompiler.exe.config
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Win32.Primitives.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\netstandard.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.AppContext.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Collections.Concurrent.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Collections.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Collections.NonGeneric.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Collections.Specialized.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.ComponentModel.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.ComponentModel.EventBasedAsync.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.ComponentModel.Primitives.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.ComponentModel.TypeConverter.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Console.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Data.Common.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Diagnostics.Contracts.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Diagnostics.Debug.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Diagnostics.FileVersionInfo.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Diagnostics.Process.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Diagnostics.StackTrace.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Diagnostics.TextWriterTraceListener.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Diagnostics.Tools.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Diagnostics.TraceSource.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Diagnostics.Tracing.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Drawing.Primitives.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Dynamic.Runtime.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Globalization.Calendars.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Globalization.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Globalization.Extensions.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.IO.Compression.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.IO.Compression.ZipFile.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.IO.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.IO.FileSystem.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.IO.FileSystem.DriveInfo.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.IO.FileSystem.Primitives.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.IO.FileSystem.Watcher.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.IO.IsolatedStorage.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.IO.MemoryMappedFiles.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.IO.Pipes.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.IO.UnmanagedMemoryStream.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Linq.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Linq.Expressions.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Linq.Parallel.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Linq.Queryable.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Net.Http.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Net.NameResolution.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Net.NetworkInformation.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Net.Ping.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Net.Primitives.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Net.Requests.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Net.Security.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Net.Sockets.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Net.WebHeaderCollection.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Net.WebSockets.Client.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Net.WebSockets.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.ObjectModel.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Reflection.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Reflection.Extensions.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Reflection.Primitives.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Resources.Reader.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Resources.ResourceManager.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Resources.Writer.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Runtime.CompilerServices.VisualC.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Runtime.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Runtime.Extensions.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Runtime.Handles.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Runtime.InteropServices.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Runtime.Numerics.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Runtime.Serialization.Formatters.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Runtime.Serialization.Json.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Runtime.Serialization.Primitives.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Runtime.Serialization.Xml.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Security.Claims.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Security.Cryptography.Algorithms.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Security.Cryptography.Csp.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Security.Cryptography.Encoding.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Security.Cryptography.Primitives.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Security.Cryptography.X509Certificates.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Security.Principal.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Security.SecureString.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Text.Encoding.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Text.Encoding.Extensions.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Text.RegularExpressions.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Threading.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Threading.Overlapped.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Threading.Tasks.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Threading.Tasks.Parallel.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Threading.Thread.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Threading.ThreadPool.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Threading.Timer.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.ValueTuple.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Xml.ReaderWriter.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Xml.XDocument.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Xml.XmlDocument.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Xml.XmlSerializer.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Xml.XPath.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Xml.XPath.XDocument.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Antiforgery.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Authentication.Core.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Authorization.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.DataProtection.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Http.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.JsonPatch.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Mvc.Core.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Routing.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.WebUtilities.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.DependencyModel.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Localization.Abstractions.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Localization.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.ObjectPool.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Options.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Primitives.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.WebEncoders.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Net.Http.Headers.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Web.Infrastructure.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Win32.Registry.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Newtonsoft.Json.Bson.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Newtonsoft.Json.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Buffers.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.ComponentModel.Annotations.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Memory.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Numerics.Vectors.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Security.AccessControl.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Security.Cryptography.Xml.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Security.Permissions.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Security.Principal.Windows.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Text.Encodings.Web.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Threading.Tasks.Extensions.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Web.Helpers.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Web.Mvc.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Web.Razor.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Web.Webpages.Deployment.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Web.Webpages.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Web.Webpages.Razor.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\X.PagedList.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\X.PagedList.Mvc.Bootstrap4.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\X.PagedList.Mvc.Core.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\X.PagedList.Mvc.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\X.PagedList.Web.Common.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Antiforgery.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Authentication.Core.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Authorization.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.DataProtection.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Http.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Http.Extensions.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.JsonPatch.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Mvc.Core.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Routing.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.WebUtilities.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Localization.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Localization.Abstractions.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.ObjectPool.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Options.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Primitives.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.WebEncoders.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Net.Http.Headers.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Newtonsoft.Json.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Newtonsoft.Json.Bson.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Buffers.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Memory.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Numerics.Vectors.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Text.Encodings.Web.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Threading.Tasks.Extensions.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Web.Razor.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Web.Webpages.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Web.Webpages.Deployment.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Web.Webpages.Razor.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Web.Helpers.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Web.Mvc.xml
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\obj\Debug\ruyadaherseycom.csproj.CoreCompileInputs.cache
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\obj\Debug\ruyadaherseycom.csproj.CopyComplete
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\obj\Debug\ruyadaherseycom.dll
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\obj\Debug\ruyadaherseycom.pdb
+E:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\obj\Debug\ruyadaherseycom.csprojAssemblyReference.cache
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\ruyadaherseycom.dll.config
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\ruyadaherseycom.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\ruyadaherseycom.pdb
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\csc.exe
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\csc.exe.config
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\csc.rsp
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\csi.exe
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\csi.exe.config
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\csi.rsp
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.AppContext.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Console.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.IO.Compression.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Net.Http.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.ValueTuple.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\vbc.exe
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\vbc.exe.config
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\vbc.rsp
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\VBCSCompiler.exe
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\netstandard.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.AppContext.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Collections.Concurrent.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Collections.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Collections.NonGeneric.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Collections.Specialized.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.ComponentModel.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.ComponentModel.Primitives.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Console.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Data.Common.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Diagnostics.Contracts.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Diagnostics.Debug.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Diagnostics.Process.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Diagnostics.Tools.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Diagnostics.Tracing.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Drawing.Primitives.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Dynamic.Runtime.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Globalization.Calendars.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Globalization.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Globalization.Extensions.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.IO.Compression.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.IO.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.IO.FileSystem.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.IO.IsolatedStorage.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.IO.Pipes.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Linq.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Linq.Expressions.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Linq.Parallel.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Linq.Queryable.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Net.Http.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Net.NameResolution.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Net.NetworkInformation.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Net.Ping.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Net.Primitives.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Net.Requests.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Net.Security.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Net.Sockets.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Net.WebSockets.Client.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Net.WebSockets.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.ObjectModel.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Reflection.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Reflection.Extensions.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Reflection.Primitives.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Resources.Reader.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Resources.ResourceManager.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Resources.Writer.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Runtime.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Runtime.Extensions.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Runtime.Handles.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Runtime.InteropServices.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Runtime.Numerics.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Security.Claims.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Security.Principal.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Security.SecureString.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Text.Encoding.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Text.RegularExpressions.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Threading.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Threading.Overlapped.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Threading.Tasks.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Threading.Thread.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Threading.ThreadPool.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Threading.Timer.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.ValueTuple.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Xml.ReaderWriter.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Xml.XDocument.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Xml.XmlDocument.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Xml.XmlSerializer.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Xml.XPath.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Localization.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Options.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Win32.Registry.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Newtonsoft.Json.Bson.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Newtonsoft.Json.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Buffers.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.ComponentModel.Annotations.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Memory.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Numerics.Vectors.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Security.AccessControl.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Security.Cryptography.Xml.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Security.Permissions.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Security.Principal.Windows.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Text.Encodings.Web.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Web.Helpers.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Web.Mvc.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Web.Razor.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Web.Webpages.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Web.Webpages.Razor.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\X.PagedList.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\X.PagedList.Mvc.Bootstrap4.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\X.PagedList.Mvc.Core.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\X.PagedList.Mvc.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\X.PagedList.Web.Common.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Localization.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Options.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Newtonsoft.Json.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Newtonsoft.Json.Bson.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Buffers.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Memory.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Numerics.Vectors.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Text.Encodings.Web.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Web.Razor.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Web.Webpages.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Web.Webpages.Razor.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Web.Helpers.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Web.Mvc.xml
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\obj\Debug\ruyadaherseycom.csprojAssemblyReference.cache
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\obj\Debug\ruyadaherseycom.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\obj\Debug\ruyadaherseycom.csproj.CopyComplete
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\obj\Debug\ruyadaherseycom.dll
+C:\Users\Berkay\Source\Repos\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\obj\Debug\ruyadaherseycom.pdb
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\ruyadaherseycom.dll.config
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\ruyadaherseycom.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\ruyadaherseycom.pdb
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\csc.exe
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\csc.exe.config
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\csc.rsp
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\csi.exe
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\csi.exe.config
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\csi.rsp
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.AppContext.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Collections.Immutable.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Console.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Globalization.Calendars.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.IO.Compression.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.IO.FileSystem.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Net.Http.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Net.Sockets.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Reflection.Metadata.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.ValueTuple.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Xml.XPath.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\vbc.exe
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\vbc.exe.config
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\vbc.rsp
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\VBCSCompiler.exe
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\roslyn\VBCSCompiler.exe.config
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Win32.Primitives.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\netstandard.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.AppContext.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Collections.Concurrent.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Collections.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Collections.NonGeneric.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Collections.Specialized.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.ComponentModel.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.ComponentModel.Primitives.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.ComponentModel.TypeConverter.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Console.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Data.Common.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Diagnostics.Contracts.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Diagnostics.Debug.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Diagnostics.Process.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Diagnostics.StackTrace.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Diagnostics.Tools.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Diagnostics.TraceSource.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Diagnostics.Tracing.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Drawing.Primitives.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Dynamic.Runtime.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Globalization.Calendars.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Globalization.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Globalization.Extensions.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.IO.Compression.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.IO.Compression.ZipFile.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.IO.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.IO.FileSystem.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.IO.FileSystem.Primitives.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.IO.FileSystem.Watcher.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.IO.IsolatedStorage.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.IO.MemoryMappedFiles.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.IO.Pipes.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Linq.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Linq.Expressions.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Linq.Parallel.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Linq.Queryable.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Net.Http.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Net.NameResolution.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Net.NetworkInformation.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Net.Ping.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Net.Primitives.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Net.Requests.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Net.Security.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Net.Sockets.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Net.WebHeaderCollection.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Net.WebSockets.Client.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Net.WebSockets.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.ObjectModel.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Reflection.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Reflection.Extensions.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Reflection.Primitives.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Resources.Reader.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Resources.ResourceManager.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Resources.Writer.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Runtime.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Runtime.Extensions.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Runtime.Handles.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Runtime.InteropServices.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Runtime.Numerics.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Runtime.Serialization.Formatters.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Runtime.Serialization.Json.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Runtime.Serialization.Primitives.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Runtime.Serialization.Xml.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Security.Claims.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Security.Cryptography.Algorithms.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Security.Cryptography.Csp.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Security.Cryptography.Encoding.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Security.Cryptography.Primitives.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Security.Principal.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Security.SecureString.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Text.Encoding.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Text.Encoding.Extensions.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Text.RegularExpressions.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Threading.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Threading.Overlapped.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Threading.Tasks.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Threading.Tasks.Parallel.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Threading.Thread.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Threading.ThreadPool.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Threading.Timer.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.ValueTuple.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Xml.ReaderWriter.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Xml.XDocument.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Xml.XmlDocument.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Xml.XmlSerializer.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Xml.XPath.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Xml.XPath.XDocument.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Http.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Routing.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Localization.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Options.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Primitives.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Net.Http.Headers.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Web.Infrastructure.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Win32.Registry.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Newtonsoft.Json.Bson.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Newtonsoft.Json.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Buffers.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.ComponentModel.Annotations.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Memory.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Numerics.Vectors.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Security.AccessControl.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Security.Cryptography.Xml.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Security.Permissions.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Security.Principal.Windows.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Text.Encodings.Web.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Threading.Tasks.Extensions.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Web.Helpers.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Web.Mvc.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Web.Razor.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Web.Webpages.Deployment.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Web.Webpages.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Web.Webpages.Razor.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\X.PagedList.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\X.PagedList.Mvc.Bootstrap4.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\X.PagedList.Mvc.Core.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\X.PagedList.Mvc.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\X.PagedList.Web.Common.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Http.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Routing.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Localization.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Options.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.Primitives.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Microsoft.Net.Http.Headers.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Newtonsoft.Json.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\Newtonsoft.Json.Bson.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Buffers.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Memory.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Numerics.Vectors.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Text.Encodings.Web.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Threading.Tasks.Extensions.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Web.Razor.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Web.Webpages.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Web.Webpages.Deployment.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Web.Webpages.Razor.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Web.Helpers.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\bin\System.Web.Mvc.xml
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\obj\Debug\ruyadaherseycom.csprojAssemblyReference.cache
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\obj\Debug\ruyadaherseycom.csproj.CoreCompileInputs.cache
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\obj\Debug\ruyadaherseycom.csproj.CopyComplete
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\obj\Debug\ruyadaherseycom.dll
+C:\Azure DevOps\ruyatabirleri.com\ruyatabirlericom\ruyatabirlericom\obj\Debug\ruyadaherseycom.pdb

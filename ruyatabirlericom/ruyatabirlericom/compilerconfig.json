@@ -1,0 +1,22 @@
+﻿[
+  {
+    "outputFile": "Content/listele.css",
+    "inputFile": "Content/listele.less"
+  },
+  {
+    "outputFile": "Content/yorum.css",
+    "inputFile": "Content/yorum.less"
+  },
+  {
+    "outputFile": "Content/ruya.css",
+    "inputFile": "Content/ruya.less"
+  },
+  {
+    "outputFile": "Content/ruyadaherseycom.css",
+    "inputFile": "Content/ruyadaherseycom.less"
+  },
+  {
+    "outputFile": "Content/ruyadaherseystyle.css",
+    "inputFile": "Content/ruyadaherseystyle.less"
+  }
+]
