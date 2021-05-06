@@ -20,4 +20,22 @@
 1️⃣ This website include ABC search. Any click goes results. <br/>
 2️⃣ Website is search input is top.  <br/>
 3️⃣ Any Dream Card click is go to detail page. <br/>
-4️⃣ This website using Nuget xpagedlist. 
+4️⃣ This website using Nuget xpagedlist. <br/>
+
+<br/><br/>
+
+---
+
+### 👁️ Desktop
+<img src="https://github.com/berkaynayman/RuyaTabiri/blob/master/Desktop.png" />
+
+<br/>
+
+### 👁️ Tablet
+<img src="https://github.com/berkaynayman/RuyaTabiri/blob/master/iPad.png" />
+
+<br/>
+
+### 👁️ Mobile
+<img src="https://github.com/berkaynayman/RuyaTabiri/blob/master/iPhone.png" />
+
