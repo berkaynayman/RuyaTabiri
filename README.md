@@ -24,7 +24,7 @@
 
 <br/><br/>
 
-<a href="www.ruyadahersey.com">www.ruyadahersey.com</a>
+www.ruyadahersey.com
 ---
 
 ### 👁️ Desktop
