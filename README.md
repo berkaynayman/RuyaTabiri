@@ -24,7 +24,7 @@
 
 <br/><br/>
 
-# <a target="_blank" href="www.ruyadahersey.com">www.ruyadahersey.com</a>
+# <a href="www.ruyadahersey.com">www.ruyadahersey.com</a>
 ---
 
 ### 👁️ Desktop
