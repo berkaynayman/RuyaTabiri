@@ -1,7 +1,6 @@
 ### Hi there, Welcome to Ruya Tabiri Project 👋
 <br />
-www.ruyadahersey.com
-<br/>
+
 ### 💻 Technologies I used in this project:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
@@ -24,7 +23,8 @@ www.ruyadahersey.com
 4️⃣ This website using Nuget xpagedlist. <br/>
 
 <br/><br/>
-
+www.ruyadahersey.com
+<br/>
 ---
 
 ### 👁️ Desktop
